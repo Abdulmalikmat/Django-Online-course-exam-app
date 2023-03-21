@@ -1,3 +1,4 @@
+# Here we can do set up connections such as installed apps, allowed hosts, middleware, templates and database etc...
 """
 Django settings for myproject project.
 
